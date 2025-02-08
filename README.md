@@ -15,3 +15,5 @@
 25.02.06 Pandas IO, Missing data, 시각화 ([2025-02-06](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-06.md))
 
 25.02.07 딥다이브, SIMD, BLAS ([2025-02-07](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-07.md))
+
+25.02.08 수학 복습 ([2025-02-08](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-08.md))
