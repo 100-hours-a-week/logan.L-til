@@ -2,7 +2,7 @@
 
 ## 2025년
 
-### [2월 첫째주, 1주차] : Git, CSS
+### [2월 첫째주, 1주차] : Git, CSS, NumPy, Pandas, Algebra, Vector
 
 25.02.02 TIL 시작 ([2025-02-02](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-02.md))
 
@@ -19,3 +19,7 @@
 25.02.08 수학 복습 ([2025-02-08](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-08.md))
 
 25.02.09 벡터 DB 알아보기 ([2025-02-09](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-09.md))
+
+### [2월 둘째주, 2주차] : Pandas, MatplotLib, Seaborn, SciPy, Linear Algebra
+
+25.02.10 시각화 기초 ([2025-02-10](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-10.md))
