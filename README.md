@@ -17,3 +17,5 @@
 25.02.07 딥다이브, SIMD, BLAS ([2025-02-07](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-07.md))
 
 25.02.08 수학 복습 ([2025-02-08](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-08.md))
+
+25.02.09 벡터 DB 알아보기 ([2025-02-09](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-09.md))
