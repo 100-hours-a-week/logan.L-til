@@ -23,3 +23,5 @@
 ### [2월 둘째주, 2주차] : Pandas, MatplotLib, Seaborn, SciPy, Linear Algebra
 
 25.02.10 시각화 기초 ([2025-02-10](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-10.md))
+
+25.02.11 크램폴린 ([2025-02-11](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-11.md))
