@@ -29,3 +29,5 @@
 > 25.02.12 크램플린 복습, 배포 알아보기 ([2025-02-12](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-12.md))
 >
 > 25.02.13 미니퀘스트 완료 ([2025-02-13](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-13.md))
+>
+> 25.02.14 딥다이브 ([2025-02-14](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-14.md))
