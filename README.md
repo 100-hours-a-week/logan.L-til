@@ -31,3 +31,5 @@
 > 25.02.13 미니퀘스트 완료 ([2025-02-13](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-13.md))
 >
 > 25.02.14 딥다이브 ([2025-02-14](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-14.md))
+>
+> 25.02.15 벡터공간 ([2025-02-15](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-15.md))
