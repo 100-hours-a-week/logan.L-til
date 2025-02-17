@@ -33,3 +33,5 @@
 > 25.02.14 딥다이브 ([2025-02-14](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-14.md))
 >
 > 25.02.15 벡터공간 ([2025-02-15](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-15.md))
+>
+> 25.02.16 크램폴린 배포 시도 ([2025-02-16](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-16.md))
