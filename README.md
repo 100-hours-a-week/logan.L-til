@@ -3,7 +3,6 @@
 ## 2025년
 
 ### [2월 첫째주, 1주차] : Git, CSS, NumPy, Pandas, Algebra, Vector
-
 > 25.02.02 TIL 시작 ([2025-02-02](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-02.md))
 > 
 > 25.02.03 Tail call, CSS 공부 ([2025-02-03](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-03.md))
@@ -18,10 +17,10 @@
 > 
 > 25.02.08 수학 복습 ([2025-02-08](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-08.md))
 > 
-> 25.02.09 벡터 DB 알아보기 ([2025-02-09](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-09.md))
-> 
-### [2월 둘째주, 2주차] : Pandas, MatplotLib, Seaborn, SciPy, Linear Algebra
+> 25.02.09 벡터 DB 알아보기 ([2025-02-09](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-09.md)) 
 
+
+### [2월 둘째주, 2주차] : Pandas, MatplotLib, Seaborn, SciPy, Linear Algebra
 > 25.02.10 시각화 기초 ([2025-02-10](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-10.md))
 > 
 > 25.02.11 크램폴린 ([2025-02-11](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-11.md))
@@ -35,3 +34,7 @@
 > 25.02.15 벡터공간 ([2025-02-15](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-15.md))
 >
 > 25.02.16 크램폴린 배포 시도 ([2025-02-16](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-16.md))
+
+
+### [2월 셋째주, 3주차] : LLM, 데이터 전처리, 데이터 증강, 데이터셋 분할, 머신러닝, 퍼셉트론
+> 25.02.17 경사하강법 ([2025-02-17](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-16.md))
