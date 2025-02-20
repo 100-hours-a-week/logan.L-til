@@ -42,3 +42,5 @@
 > 25.02.18 AI 기초 이론 ([2025-02-18](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-18.md))
 >
 > 25.02.19 퍼셉트론, 미니퀘스트 ([2025-02-19](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-19.md))
+>
+> 25.02.20 과제, AI 서버 배포 ([2025-02-20](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-20.md))
