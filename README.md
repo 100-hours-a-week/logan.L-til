@@ -44,3 +44,7 @@
 > 25.02.19 퍼셉트론, 미니퀘스트 ([2025-02-19](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-19.md))
 >
 > 25.02.20 과제, AI 서버 배포 ([2025-02-20](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-20.md))
+>
+> 25.02.21 X
+>
+> 25.02.22 LangChain, FastAPI ([2025-02-22](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-22.md))
