@@ -50,3 +50,7 @@
 > 25.02.22 LangChain, FastAPI ([2025-02-22](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-22.md))
 >
 > 25.02.23 X (지낼 숙소 알아보기)
+
+
+### [2월 넷째주, 4주차] : 딥러닝 기초, Activation & Loss Function, Convolution & Pooling & Flatten Layer
+> 25.02.24 ANN, CNN 기초 ([2025-02-24](https://github.com/100-hours-a-week/logan.L-til/blob/main/FEB/2025-02-24.md))
