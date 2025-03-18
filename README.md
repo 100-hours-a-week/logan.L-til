@@ -58,3 +58,5 @@
 
 ### [3월 셋째주, 5주차] : LangChain, LangGraph, RAG, DB, SQL, Streamlit
 > 25.03.17 DB, SQL ([2025-03-17](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-17.md))
+>
+> 25.03.18 MySQL, Kaggle ([2025-03-18](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-18.md))
