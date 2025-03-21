@@ -63,4 +63,6 @@
 >
 > 25.03.20 Grad-CAM, 멘토링 ([2025-03-20](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-20.md))
 >
-> 25.03.21 (아직 안 적음) ([2025-03-21](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-21.md))
+> 25.03.21 NoSQL, 멘토링 ([2025-03-21](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-21.md))
+>
+> 25.03.22 (공백) ([2025-03-22](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-22.md))
