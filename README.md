@@ -65,4 +65,4 @@
 >
 > 25.03.21 NoSQL, 멘토링 ([2025-03-21](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-21.md))
 >
-> 25.03.22 (공백) ([2025-03-22](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-22.md))
+> 25.03.22 DB 동시성 제어, 모델 GPU 소모량 ([2025-03-22](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-22.md))
