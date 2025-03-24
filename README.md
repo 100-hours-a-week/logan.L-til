@@ -66,3 +66,6 @@
 > 25.03.21 NoSQL, 멘토링 ([2025-03-21](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-21.md))
 >
 > 25.03.22 DB 동시성 제어, 모델 GPU 소모량 ([2025-03-22](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-22.md))
+
+### [3월 넷째주, 6주차] : CNN, 논문, LangGraph, Agent, FastAPI
+> 25.03.24 CNN, langchain.tool ([2025-03-24](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-24.md))
