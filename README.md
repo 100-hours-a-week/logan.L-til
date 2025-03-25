@@ -69,3 +69,5 @@
 
 ### [3월 넷째주, 6주차] : CNN, 논문, LangGraph, Agent, FastAPI
 > 25.03.24 CNN, langchain.tool ([2025-03-24](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-24.md))
+>
+> 25.03.25 멘토링, Loss의 의미, 역전파 ([2025-03-25](https://github.com/100-hours-a-week/logan.L-til/blob/main/MAR/2025-03-25.md))
